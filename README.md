@@ -15,7 +15,7 @@
 ## セットアップ手順
 
 ```bash
-git clone https://github.com/your-user/typescript-webcomponents-starter-kit.git
+git clone git@github.com:shuji-bonji/typescript-webcomponents-starter-kit.git
 cd typescript-webcomponents-starter-kit
 npm install
 ```
