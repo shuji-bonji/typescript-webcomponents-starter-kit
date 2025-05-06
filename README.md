@@ -18,6 +18,11 @@
 git clone https://github.com/your-user/typescript-webcomponents-starter-kit.git
 cd typescript-webcomponents-starter-kit
 npm install
+```
+
+## Vite で開発サーバーを起動
+
+```
 npm run dev
 ```
 
